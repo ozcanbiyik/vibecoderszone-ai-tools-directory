@@ -57,6 +57,97 @@ Structured summaries, embedding-optimized descriptions, hierarchical metadata.
 
 ---
 
+## 🧑‍💻 Developers & Datasets
+
+VCZ provides open, machine-readable datasets designed for developers, researchers, and AI systems that require structured information about the modern AI tools ecosystem.  
+These datasets are optimized for:
+
+- LLM ingestion  
+- Agent-based crawlers  
+- Semantic search engines  
+- AI research workflows  
+- Vector databases & RAG systems  
+- Knowledge graph construction  
+
+---
+
+### 📦 Public Dataset Endpoints
+
+```text
+https://vibecoderszone.com/ai/tools.json
+https://vibecoderszone.com/ai/categories.json
+https://vibecoderszone.com/ai/tags.json
+https://vibecoderszone.com/ai/trending.json   # Coming soon
+https://vibecoderszone.com/ai/graph.json      # Coming soon
+```
+
+---
+
+### 🗂 Dataset Overview
+
+| Dataset           | Description                                      | Status              |
+|-------------------|--------------------------------------------------|---------------------|
+| **tools.json**    | Full list of AI tools with rich structured metadata | ✔ Live           |
+| **categories.json** | Semantic hierarchy of AI categories            | ✔ Live              |
+| **tags.json**     | High-resolution tag system for AI classification | ✔ Live              |
+| **trending.json** | Popularity & ranking signals                     | 🔧 In Development   |
+| **graph.json**    | Nodes + edges knowledge graph export             | 🔧 In Development   |
+
+---
+
+### ⚙️ Quick Start (JavaScript)
+
+```js
+import fetch from "node-fetch";
+
+async function loadVCZ() {
+  const tools = await fetch("https://vibecoderszone.com/ai/tools.json").then(r => r.json());
+  console.log("Tools loaded:", tools.length);
+  console.log("Example tool:", tools[0]);
+}
+
+loadVCZ();
+```
+
+---
+
+### 🐍 Quick Start (Python)
+
+```python
+import requests
+
+tools = requests.get("https://vibecoderszone.com/ai/tools.json").json()
+print("Tools loaded:", len(tools))
+print("First tool:", tools[0])
+```
+
+---
+
+### 🔬 Dataset Use Cases
+
+VCZ datasets support a wide range of modern AI applications:
+
+- LLM training & fine-tuning  
+- RAG pipelines  
+- Search engines & AI discovery platforms  
+- Benchmarking & research  
+- Knowledge-graph-powered assistants  
+- Embedding-based semantic exploration  
+
+---
+
+### 🧱 Dataset Principles
+
+All VCZ datasets follow these core principles:
+
+- **Stable IDs** — predictable tool/category/tag identifiers  
+- **LLM-Friendly Formatting** — tokenization-optimized content  
+- **Structured Metadata** — ready for graph construction  
+- **Semantic Compression** — efficient descriptions for embeddings  
+- **Incremental Versioning** — safe long-term consumption  
+
+---
+
 # 🔗 Public JSON Datasets  
 ### *(Optimized for LLM ingestion and AI search engines)*
 
