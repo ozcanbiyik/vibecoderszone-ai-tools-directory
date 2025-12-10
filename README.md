@@ -1,4 +1,11 @@
 # 🚀 VibeCodersZone (VCZ)
+
+![GitHub stars](https://img.shields.io/github/stars/ozcanbiyik/vibecoderszone-ai-tools-directory?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/ozcanbiyik/vibecoderszone-ai-tools-directory?style=flat-square)
+![Open Data](https://img.shields.io/badge/AI%20Open%20Dataset-VCZ-blue?style=flat-square)
+![Semantic Web](https://img.shields.io/badge/Semantic-Web-brightgreen?style=flat-square)
+![LLM Ready](https://img.shields.io/badge/LLM-Ready-orange?style=flat-square)
+
 ### AI Tools Directory • LLM SEO Research Platform • Modern AI Technology Index  
 **Official Website:** https://vibecoderszone.com
 
