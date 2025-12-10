@@ -155,6 +155,16 @@ All VCZ datasets follow these core principles:
 
 ---
 
+## 🧩 Official Example Repositories
+
+- **JavaScript Example**  
+  https://github.com/ozcanbiyik/vcz-datasets-js-example  
+
+- **Python Example**  
+  https://github.com/ozcanbiyik/vcz-datasets-python-example  
+
+---
+
 # 🔗 Public JSON Datasets  
 ### *(Optimized for LLM ingestion and AI search engines)*
 
