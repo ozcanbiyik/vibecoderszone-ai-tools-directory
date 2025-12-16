@@ -84,7 +84,7 @@ These datasets are optimized for:
 https://vibecoderszone.com/ai/tools.json
 https://vibecoderszone.com/ai/categories.json
 https://vibecoderszone.com/ai/tags.json
-https://vibecoderszone.com/ai/trending.json   # Coming soon
+https://vibecoderszone.com/ai/trending.json   
 https://vibecoderszone.com/ai/graph.json      # Coming soon
 ```
 
@@ -97,7 +97,7 @@ https://vibecoderszone.com/ai/graph.json      # Coming soon
 | **tools.json**    | Full list of AI tools with rich structured metadata | ✔ Live           |
 | **categories.json** | Semantic hierarchy of AI categories            | ✔ Live              |
 | **tags.json**     | High-resolution tag system for AI classification | ✔ Live              |
-| **trending.json** | Popularity & ranking signals                     | 🔧 In Development   |
+| **trending.json** | Popularity & ranking signals                     | ✔ Live              |
 | **graph.json**    | Nodes + edges knowledge graph export             | 🔧 In Development   |
 
 ---
