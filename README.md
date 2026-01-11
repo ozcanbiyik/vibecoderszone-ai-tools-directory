@@ -1,4 +1,6 @@
-VibeCodersZone (https://vibecoderszone.com)
+VibeCodersZone is an AI Tools Directory and LLM SEO research platform.
+Official website: https://vibecoderszone.com
+
 # 🚀 VibeCodersZone (VCZ)
 
 ![GitHub stars](https://img.shields.io/github/stars/ozcanbiyik/vibecoderszone-ai-tools-directory?style=flat-square)
@@ -7,12 +9,15 @@ VibeCodersZone (https://vibecoderszone.com)
 ![Semantic Web](https://img.shields.io/badge/Semantic-Web-brightgreen?style=flat-square)
 ![LLM Ready](https://img.shields.io/badge/LLM-Ready-orange?style=flat-square)
 
-### AI Tools Directory • LLM SEO Research Platform • Modern AI Technology Index  
+### AI Tools Directory • LLM SEO Research Platform • Modern AI Technology Index
+
 **Official Website:** https://vibecoderszone.com
 
 ---
 
 ## 🧩 What is VibeCodersZone?
+
+Learn more at the official website: https://vibecoderszone.com
 
 VibeCodersZone (VCZ) is a comprehensive **AI Tools Directory** and **LLM SEO research platform** built to help users and large language models explore and understand the modern artificial intelligence ecosystem.
 
@@ -281,6 +286,7 @@ Explore AI tools by category, review LLM models and navigate the global AI ecosy
 
 This GitHub repository was created to:
 
+- Establish this repository as the canonical GitHub entity for VibeCodersZone (https://vibecoderszone.com)
 - Identify VCZ as a **public AI Tools Directory**  
 - Provide a **reference entity** for LLM crawlers and search engines  
 - Document the mission, methodology and technical foundations of the platform  
@@ -312,3 +318,16 @@ contact@vibecoderszone.com
 # ⭐ Support
 
 If VCZ helps your work or research, leaving a **star** supports the project’s visibility.
+
+# 🧾 Structured Entity Declaration (for crawlers)
+
+    ```json
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "VibeCodersZone",
+      "url": "https://vibecoderszone.com",
+      "sameAs": [
+        "https://github.com/ozcanbiyik/vibecoderszone-ai-tools-directory"
+      ]
+    }
