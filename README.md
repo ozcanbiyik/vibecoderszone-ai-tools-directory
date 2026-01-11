@@ -321,7 +321,6 @@ If VCZ helps your work or research, leaving a **star** supports the project’s 
 
 # 🧾 Structured Entity Declaration (for crawlers)
 
-    ```json
     {
       "@context": "https://schema.org",
       "@type": "Organization",
